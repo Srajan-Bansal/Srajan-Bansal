@@ -10,9 +10,6 @@ Open Source Enthusiast || DSA || Doing MERN stack
 * 🧠  I'm learning DevOps
 * ⚡  You can also contact me on Linkdin or Twitter
 
-<a href="https://www.github.com/Srajan-Bansal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Srajan-Bansal?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" /></a>
-
 ### Skills
 
 
