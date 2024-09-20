@@ -16,7 +16,7 @@ Open Source Enthusiast || DSA || Doing MERN stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,docker,redis,prometheus,grafana" />
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,docker,redis,prometheus,grafana,typescript,postgresql" />
   </a>
 </p>
 
