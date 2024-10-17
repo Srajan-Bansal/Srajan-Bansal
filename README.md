@@ -15,12 +15,12 @@ Open Source Enthusiast || DSA || Doing MERN stack
 
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,nodejs,express,mongodb,react,docker,redis,prometheus,grafana,typescript,postgresql" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,html,css,js,nodejs,express,mongodb,react,docker,redis,prometheus,grafana,typescript,postgresql" />
   </a>
 </p>
 
-
+ngoose
 ### Socials
 
 <p align="left"><a href="https://www.github.com/Srajan-Bansal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/https://www.instagram.com/srajanbansal1448/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/srajan-bansal/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Srajanstwt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
