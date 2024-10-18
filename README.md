@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Versatile Full Stack Developer || Beyond the Basics || Scaling with Systems Knowledge
+Versatile Full Stack Developer || Beyond CRUD || Scaling with Systems Knowledge
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Srajan Portfolio](http://portfolio-srajanbansal.netlify.app)
