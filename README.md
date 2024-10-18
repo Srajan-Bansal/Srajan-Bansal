@@ -6,7 +6,6 @@ Software Developer
 Versatile Full Stack Developer || Beyond CRUD || Scaling with Systems Knowledge
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Srajan Portfolio](http://portfolio-srajanbansal.netlify.app)
 * ✉️  You can contact me at [srajanbansal999@gmail.com](mailto:srajanbansal999@gmail.com)
 * 🧠  Learning How to scale an application.
 * ⚡  You can also contact me on LinkedIn or Twitter
