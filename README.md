@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Versatile Full Stack Developer || Beyond CRUD || Scaling with Systems Knowledge
+Full Stack Developer || Beyond CRUD || Scaling with Systems Knowledge
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [srajanbansal999@gmail.com](mailto:srajanbansal999@gmail.com)
