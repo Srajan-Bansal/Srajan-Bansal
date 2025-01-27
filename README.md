@@ -15,7 +15,7 @@ Full Stack Developer || Beyond CRUD || Scaling with Systems Knowledge
 
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,html,css,js,nodejs,express,mongodb,react,docker,redis,prometheus,grafana,typescript,postgresql" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,html,css,js,nodejs,express,mongodb,react,docker,redis,prometheus,grafana,typescript,postgresql,prisma" />
   </a>
 </p>
 
